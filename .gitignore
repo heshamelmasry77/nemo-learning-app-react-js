@@ -1,0 +1,31 @@
+# Local development
+*.env
+*.dev
+.DS_Store
+
+# Docker
+Dockerfile
+docker-compose.yml
+
+# IDE's
+# PHPStorm
+.idea/*
+
+# VSCODE
+.history
+.vscode/*
+
+# dependencies
+node_modules
+
+# logs
+npm-debug.log
+
+# Nuxt build
+.nuxt
+
+# Nuxt generate
+dist
+
+# Cheki Alex Dev Server
+.htpasswd
